@@ -1,0 +1,141 @@
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d6fde8;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+  }
+  .container{
+    display: flex;
+    align-items: center;
+width: 20%;
+
+padding: 10px 20px;
+margin: 20px auto;
+border-radius: 25px;
+  }
+  input{
+
+outline: none;
+border: none;
+background-color: transparent;
+font-size: 24;
+align-items: center;
+  }
+header {
+  background-color: #b3ffc0;
+  color: rgb(243, 171, 171);
+  padding: 0px;
+  text-align: center;
+  border-radius: 0px;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f2f1fd;
+    padding: 10px 20px;
+  }
+  
+  .logo {
+    color: #067794;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav-links li a {
+    color: #084269;
+    text-decoration: cadetblue;
+    padding: 8px 12px;
+    transition: background 0.6s;
+  }
+  
+  .nav-links li a:hover {
+    background-color: #555;
+    border-radius: 4px;
+  }
+p1{
+    color: darkmagenta;
+    font-weight: bold;
+    font-size: 24;
+}
+p2{
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 24;
+}
+p3{
+    color: darkblue;
+    font-weight: bold;
+    font-size: 24;
+}
+p4{
+    color: brown;
+    font-weight: bold;
+    font-size: 24;
+}
+p5{
+    color: darkred;
+    font-weight: bold;
+    font-size: 24;
+}
+p6{
+    color: firebrick;
+    font-weight: bold;
+    font-size: 24;
+}
+p7{
+    text-align: center;
+    font-weight: bold;
+    font-size: 24;
+}
+input {
+    background-color: lightyellow;
+    font-weight: bold;
+    font-size: 24;
+}
+option{
+    font-weight: bold;
+    font-size: 24;
+}
+p7{
+    color: rgb(2, 39, 88);
+    text-align: center;
+    font-size: 24;
+}
+p8{
+    color: rgb(3, 103, 218);
+    text-align: center;
+    font-size: 24;
+}
+p9{
+    color: rgb(5, 56, 122);
+    text-align: center;
+    font-size: 24;
+}
+p10{
+    color: rgb(0, 54, 90);
+    text-align: center;
+    font-size: 24;
+}
+p11{
+    color: rgb(9, 62, 97);
+    text-align: center;
+    font-size: 24;
+}
+h1{
+    font-weight: bold;
+font-size: 30;
+}
